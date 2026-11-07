@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "slotmemory",
+    "name": "Slot Memory",
+    "description": "Client-side inventory slot memory. Memorize item positions, auto-place picked-up or shift-clicked items into their assigned slots, and toggle assignments via keybinds with chat-only feedback.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://github.com/Jaccuse/inventory-memory-legacy-minecraft-forge",
+    "updateUrl": "",
+    "authorList": [
+      "Jaccuse"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]

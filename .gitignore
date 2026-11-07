@@ -1,0 +1,41 @@
+# Gradle
+.gradle/
+build/
+
+# ForgeGradle run directory (worlds, logs, options, saved slot memory)
+run/
+
+# Eclipse
+eclipse/
+bin/
+.settings/
+.metadata/
+.classpath
+.project
+*.launch
+
+# IntelliJ IDEA
+.idea/
+out/
+*.ipr
+*.iws
+*.iml
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Sync-conflict and editor backup files
+*.sync-conflict-*
+*~
+*.bak
+*.orig
+
+# Logs and crash reports
+*.log
+hs_err_pid*.log
+crash-reports/
