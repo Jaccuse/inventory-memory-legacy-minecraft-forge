@@ -42,6 +42,10 @@ You need JDK 8. ForgeGradle 2.1 does not run on newer JDKs.
 
 The mod jar is written to `build/libs/`.
 
+## Development history
+
+This mod was originally created without [Claude](https://claude.com/claude-code). Later, Claude was used to clean up and update the project, then publish it to GitHub.
+
 ## License
 
 [MIT](LICENSE)
