@@ -44,7 +44,7 @@ The mod jar is written to `build/libs/`.
 
 ## Development history
 
-This mod was originally created without [Claude](https://claude.com/claude-code). Later, Claude was used to clean up and update the project, then publish it to GitHub.
+This mod was originally created by Jack with GPT 5.5, without [Claude](https://claude.com/claude-code). Later, Claude was used to clean up and update the project, then publish it to GitHub.
 
 ## License
 
